@@ -735,11 +735,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 
+  cloudProjectId: 8a234d0f-4551-4727-bddc-34e1c3c84582
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: dependedalua
+  organizationId: serra222
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   playerDataPath: 
