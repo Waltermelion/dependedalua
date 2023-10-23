@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Unity.Netcode;
 using UnityEngine;
 
-public class Player : NetworkBehaviour {
+public class PlayerMovement : NetworkBehaviour {
 
     [SerializeField] private NetworkVariable<int> speed = new NetworkVariable<int>(1, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Owner);
     [SerializeField] private NetworkVariable<int> jumpingPower = new NetworkVariable<int>(1, NetworkVariableReadPermission.Everyone, NetworkVariableWritePermission.Owner);
